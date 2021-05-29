@@ -1,8 +1,7 @@
 import pandas as pd 
-import matplotlib.pyplot as plt
+import yfinance as yf
 import altair as alt
 import streamlit as st
-import yfinance as yf
 
 st.title('米国株可視化アプリ')
 
